@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Dubai Marina",
+    "slug": "dubai-marina",
+    "description": "Local painting experts serving Dubai Marina, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Jumeirah Lake Towers (JLT)",
+    "slug": "jumeirah-lake-towers-jlt",
+    "description": "Local painting experts serving Jumeirah Lake Towers (JLT), Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Downtown Dubai",
+    "slug": "downtown-dubai",
+    "description": "Local painting experts serving Downtown Dubai, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Business Bay",
+    "slug": "business-bay",
+    "description": "Local painting experts serving Business Bay, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Jumeirah Village Circle (JVC)",
+    "slug": "jumeirah-village-circle-jvc",
+    "description": "Local painting experts serving Jumeirah Village Circle (JVC), Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Palm Jumeirah",
+    "slug": "palm-jumeirah",
+    "description": "Local painting experts serving Palm Jumeirah, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Al Barsha",
+    "slug": "al-barsha",
+    "description": "Local painting experts serving Al Barsha, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Arabian Ranches",
+    "slug": "arabian-ranches",
+    "description": "Local painting experts serving Arabian Ranches, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Deira",
+    "slug": "deira",
+    "description": "Local painting experts serving Deira, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Bur Dubai",
+    "slug": "bur-dubai",
+    "description": "Local painting experts serving Bur Dubai, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Jumeirah",
+    "slug": "jumeirah",
+    "description": "Local painting experts serving Jumeirah, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Al Quoz",
+    "slug": "al-quoz",
+    "description": "Local painting experts serving Al Quoz, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Mirdif",
+    "slug": "mirdif",
+    "description": "Local painting experts serving Mirdif, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "DIFC",
+    "slug": "difc",
+    "description": "Local painting experts serving DIFC, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Dubai Silicon Oasis",
+    "slug": "dubai-silicon-oasis",
+    "description": "Local painting experts serving Dubai Silicon Oasis, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Dubai Sports City",
+    "slug": "dubai-sports-city",
+    "description": "Local painting experts serving Dubai Sports City, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "International City",
+    "slug": "international-city",
+    "description": "Local painting experts serving International City, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Karama",
+    "slug": "karama",
+    "description": "Local painting experts serving Karama, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "The Greens",
+    "slug": "the-greens",
+    "description": "Local painting experts serving The Greens, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Dubai Hills Estate",
+    "slug": "dubai-hills-estate",
+    "description": "Local painting experts serving Dubai Hills Estate, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Discovery Gardens",
+    "slug": "discovery-gardens",
+    "description": "Local painting experts serving Discovery Gardens, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Motor City",
+    "slug": "motor-city",
+    "description": "Local painting experts serving Motor City, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Al Furjan",
+    "slug": "al-furjan",
+    "description": "Local painting experts serving Al Furjan, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Jumeirah Beach Residence (JBR)",
+    "slug": "jumeirah-beach-residence-jbr",
+    "description": "Local painting experts serving Jumeirah Beach Residence (JBR), Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Al Nahda",
+    "slug": "al-nahda",
+    "description": "Local painting experts serving Al Nahda, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "DAMAC Hills",
+    "slug": "damac-hills",
+    "description": "Local painting experts serving DAMAC Hills, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "The Villa",
+    "slug": "the-villa",
+    "description": "Local painting experts serving The Villa, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "Villanova",
+    "slug": "villanova",
+    "description": "Local painting experts serving Villanova, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "The Meadows",
+    "slug": "the-meadows",
+    "description": "Local painting experts serving The Meadows, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  },
+  {
+    "name": "The Springs",
+    "slug": "the-springs",
+    "description": "Local painting experts serving The Springs, Dubai.",
+    "propertyTypes": [
+      "Apartments",
+      "Villas",
+      "Offices"
+    ]
+  }
+]
